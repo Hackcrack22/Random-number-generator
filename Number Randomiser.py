@@ -4,5 +4,5 @@ print("This tool is number randomiser. Please choose a number A and a number B")
 A=float(input("A = "))
 B=float(input("B = "))
 import random
-print("Here is your number : ",random.randint(A,B))
+print("Here is your number : ",random.randfloat(A,B))
 
